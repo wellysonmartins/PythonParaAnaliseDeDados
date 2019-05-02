@@ -4,7 +4,7 @@
 
 ## Conteúdo:
 - [x] 1. Introdução ao curso
-- [ ] 2. Variáveis, tipos e estruturas de dados
+- [x] 2. Variáveis, tipos e estruturas de dados
 - [ ] 3. Loops, condicionais, métodos e funções
 - [ ] 4. Tratamentos de Arquivos, Módulos, Pacotes e Funções Built-in
 - [ ] 5. Orientação à Objetos
