@@ -1,1 +1,1 @@
-Testando gravação de arquivos em Python  Acrescentando conteúdo
+Incluindo texto no arquivo criado
