@@ -7,7 +7,7 @@
 - [x] 2. Variáveis, tipos e estruturas de dados
 - [x] 3. Loops, condicionais, métodos e funções
 - [x] 4. Tratamentos de Arquivos, Módulos, Pacotes e Funções Built-in
-- [ ] 5. Orientação à Objetos
+- [x] 5. Orientação à Objetos
 - [ ] 6. Manipulando Banco de Dados com Python
 - [ ] 7. Desafio DSA
 - [ ] 8. Módulo Python para Análise de Dados
