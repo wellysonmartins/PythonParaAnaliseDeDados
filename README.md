@@ -9,8 +9,8 @@
 - [x] 4. Tratamentos de Arquivos, Módulos, Pacotes e Funções Built-in
 - [x] 5. Orientação à Objetos
 - [x] 6. Manipulando Banco de Dados com Python
-- [ ] 7. Desafio DSA
-- [ ] 8. Módulo Python para Análise de Dados
+- [x] 7. Desafio DSA
+- [x] 8. Módulo Python para Análise de Dados
 - [ ] 9. Introdução à Análise de Dados com Python
 - [ ] 10. Introdução ao TensorFlow
 - [ ] 11. Introdução a Machine Learning com Python
