@@ -12,7 +12,7 @@
 - [x] 7. Desafio DSA
 - [x] 8. Módulo Python para Análise de Dados
 - [x] 9. Introdução à Análise de Dados com Python
-- [ ] 10. Introdução ao TensorFlow
+- [x] 10. Introdução ao TensorFlow
 - [ ] 11. Introdução a Machine Learning com Python
 - [ ] 12. Bônus - Introdução a Deep Learning
 - [ ] 13. Desenvolvimento Web
