@@ -11,7 +11,7 @@
 - [x] 6. Manipulando Banco de Dados com Python
 - [x] 7. Desafio DSA
 - [x] 8. Módulo Python para Análise de Dados
-- [ ] 9. Introdução à Análise de Dados com Python
+- [x] 9. Introdução à Análise de Dados com Python
 - [ ] 10. Introdução ao TensorFlow
 - [ ] 11. Introdução a Machine Learning com Python
 - [ ] 12. Bônus - Introdução a Deep Learning
