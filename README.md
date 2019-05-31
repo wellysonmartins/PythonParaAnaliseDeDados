@@ -14,7 +14,7 @@
 - [x] 9. Introdução à Análise de Dados com Python
 - [x] 10. Introdução ao TensorFlow
 - [x] 11. Introdução a Machine Learning com Python
-- [ ] 12. Bônus - Introdução a Deep Learning
+- [x] 12. Bônus - Introdução a Deep Learning
 - [ ] 13. Desenvolvimento Web
 - [ ] 14. Introdução ao Web Scraping
 - [ ] 15. Avaliação Final
