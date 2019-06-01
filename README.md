@@ -15,6 +15,6 @@
 - [x] 10. Introdução ao TensorFlow
 - [x] 11. Introdução a Machine Learning com Python
 - [x] 12. Bônus - Introdução a Deep Learning
-- [ ] 13. Desenvolvimento Web
+- [x] 13. Desenvolvimento Web
 - [ ] 14. Introdução ao Web Scraping
 - [ ] 15. Avaliação Final
