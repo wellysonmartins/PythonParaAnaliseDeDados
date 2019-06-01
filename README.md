@@ -1,5 +1,7 @@
 # PythonParaAnaliseDeDados
 
+# CURSO CONCLUÍDO :D
+
 ## Arquivos do curso de Python Fundamentos para Análise de Dados - Data Science Academy
 
 ## Conteúdo:
@@ -16,5 +18,5 @@
 - [x] 11. Introdução a Machine Learning com Python
 - [x] 12. Bônus - Introdução a Deep Learning
 - [x] 13. Desenvolvimento Web
-- [ ] 14. Introdução ao Web Scraping
-- [ ] 15. Avaliação Final
+- [x] 14. Introdução ao Web Scraping
+- [x] 15. Avaliação Final
